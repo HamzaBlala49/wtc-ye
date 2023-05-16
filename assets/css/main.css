@@ -170,7 +170,7 @@ transform: translateX(-40px);
     margin-top: 10px;
 } 
 .mynavbar  .links  .link:hover a{
-    color: rgb(160, 27, 47);
+    color:var(--subColor);
 }
 .mynavbar  .links  .link a{
     text-decoration: none;
